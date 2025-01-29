@@ -1,3 +1,10 @@
 {
-  "registry": []
+  "registry": [
+    {
+      "id": "did:web:traceability.site:test:11",
+      "name": "11",
+      "image": "https://github.com/organizations/OpSecId/settings/profile",
+      "description": "test"
+    }
+  ]
 }
